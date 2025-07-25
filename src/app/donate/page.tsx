@@ -266,13 +266,7 @@ export default function DonatePage() {
             <p className="font-poppins text-sanctuary-navy mb-4">
               <strong>Next Steps for Setup:</strong>
             </p>
-            <ol className="font-poppins text-sanctuary-navy space-y-2 list-decimal list-inside">
-              <li>Create a GoFundMe campaign: "Support Austin Community Resources"</li>
-              <li>Set goal around $5,000-$10,000 to start</li>
-              <li>Update the platform URLs above with your actual links</li>
-              <li>Add your PayPal.me and Venmo links as alternatives</li>
-              <li>Share story about Sanctuary's mission and volunteer team</li>
-            </ol>
+
           </div>
         </div>
       </section>
